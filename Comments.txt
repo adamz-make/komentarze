@@ -1,0 +1,30 @@
+Poczatek 
+ Imię: badba 
+ Data: 2020-08-19 13:30:01
+ satisf: Zadowolony 
+ komentarz: badbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadbabadba 
+ koniec
+Poczatek 
+ Imię: ascsacsac 
+ Data: 2020-08-19 13:30:11
+ satisf: Niezadowolony 
+ komentarz: ascsacsacascsacsacascsacsacascsacsacascsacsacascsacsacascsacsacascsacsacascsacsacascsacsacascsacsacascsacsacascsacsac 
+ koniec
+Poczatek 
+ Imię: Adam Zet 
+ Data: 2020-08-24 10:06:16
+ satisf: Zadowolony 
+ komentarz: No mogło być lepiej ale nie jest źle 
+ koniec
+Poczatek 
+ Imię: Michał Bęć 
+ Data: 2020-08-24 10:11:19
+ satisf: Niezadowolony 
+ komentarz: Nie Fajnie 
+ koniec
+Poczatek 
+ Imię: Danny Jol 
+ Data: 2020-08-24 12:26:09
+ satisf: Niezadowolony 
+ komentarz: No tak to bywa hahaha lol:DSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS 
+ koniec
